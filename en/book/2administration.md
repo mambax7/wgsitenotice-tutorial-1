@@ -18,7 +18,7 @@ There are seven \(7\) menu options on top. These can be seen in the graphic belo
 
 On the dashboard you get a short overview about the functionalities and the content of the module.  a
 
-![0dashboard .png](.gitbook/assets/0dashboard.png)
+![0dashboard .png](../assets/0dashboard.png)
 
 ## 2.0.3 Functionalities for admins:
 
