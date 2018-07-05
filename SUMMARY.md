@@ -2,7 +2,7 @@
 
 * [ENGLISH](en/book/README.md)
 	* [Table of contents](en/summary.md)
-	* [Introduction](en/book/README.md)
+	* [Introduction](en/README.md)
 	* [Install/Uninstall](en/book/install-uninstall.md)
 	* [Administration Menu](en/book/administration-menu.md)
 	* [Preferences](en/book/preferences.md)
@@ -15,7 +15,7 @@
 
 * [DEUTSCH](de/book/README.md)
 	* [Inhaltsverzeichnis](de/summary.md)
-	* [Einleitung](de/book/README.md)
+	* [Einleitung](de/README.md)
 	* [(De-)Installation](de/book/1install.md)
 	* [Administrationsbereich](de/book/2administration.md)
 	   * [Versionen](de/book/2admin_versions.md)
