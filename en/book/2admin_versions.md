@@ -2,7 +2,7 @@
 
 On the dashboard tab 'versions' you see a list of the existing versions.
 
-#### 2.2.1 Auflistung der vorhandenen Versionen
+#### 2.2.1 List of available versions
 ![](../assets/2admin_versions_list.png)
 
 If you use a list of several versions on user side, you can change ranking by drag & drop.
