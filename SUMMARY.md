@@ -9,4 +9,5 @@
 * [Blocks](blocks.md)
 * [Templates](templates.md)
 * [Module Credits](module-credits.md)
+* [About XOOPS CMS](about-xoops-cms.md)
 
