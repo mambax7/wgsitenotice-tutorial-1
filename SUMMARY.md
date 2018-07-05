@@ -1,11 +1,12 @@
-# Table of Content
+# Table of contents
 
 * [Introduction](README.md)
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferencesmd.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu.md)
+* [Preferences](preferences.md)
+* [Operating Instructions](operating-instructions.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Module Credits](module-credits.md)
+
